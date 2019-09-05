@@ -1,90 +1,57 @@
-# Welcome to GitHub
+# Tejal Patel
+# OMIS 449 001
+# September 5th, 2019
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+# EX01
 
-## Repositories
+## Why is the CPU the most important component in a computer?
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+The CPU is the most important component in a computer because it runs programs. Without the CPU, the computer will not be able to run the software.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+## What number does a bit that is turned on represent?
 
-## Describe your project
+The bit that is turned on represent the number one (1).
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+## What number does a bit that is turned off represent?
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+The bit that is turned off represent the number zero (0). 
 
-## Your first website
+## What would you call a device that works with binary data?
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+The device that works with binary data is called digital data.
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+## What are the words that make up a high-level programming language called?
 
-## Rename this repository to publish your site
+The words that make up a high-level programming language is called key words or reserved words.
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+## What are the short words that are used in assembly language called?
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+The short two words that are used in assembly language is called mnemonics.
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+## What is the difference between a compiler and an interpreter?
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
+The difference between a compiler and an interpreter is that complier is a program that translates high level language program into a separate machine language which can be executed by any time it is needed. Interpreter is a program where it translates each high-level instruction and immediately executes the instructions.
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+## What type of software controls the internal operations of the computer’s hardware?
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+The software that controls the internal operations of the computer’s hardware is the operating system. 
 
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
+## What is pseudocode?
 
-## Making your first edit
+Pseudocode means a fake code. Which means like writing out the steps informally before attempting to put in the actual code. This is a helpful process to do when you are designing a program. Then, paste the template to line 15 and fill in the blanks.
 
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
+## What is a flowchart?
 
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
+A flowchart is a diagram that graphically describes the steps in the algorithm.  
 
-## Practice: Customize your first GitHub website by writing HTML code
+## When a program runs in a text-based environment, such as a command line interface, what determines the order in which things happen?
 
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
+To determine the order in which things happens when the program runs in a texted-based environment, such as a command line interface, we go back in what is written when the objects were made. The input always comes in specific order, in a way that’s how the program is written.
 
-Let’s start with this template:
+## What does a class specify about an object?
 
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
+A class specify about an object by its components of programs and the actions of the class.
 
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
+## Can you use C# alone to perform advanced operations such as creating GUIs, reading data from a file, or working with databases? Why or why not?
 
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+You cannot use the C# alone to perform advanced operations such as creating GUIs, reading data from a file, or working with databases because C# provides only the basic keywords and operators that we will need to build a program. 
